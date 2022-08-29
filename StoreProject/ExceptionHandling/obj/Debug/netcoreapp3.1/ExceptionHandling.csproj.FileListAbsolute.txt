@@ -1,0 +1,17 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\StoreAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\bin\Debug\netcoreapp3.1\StoreAppLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CopyComplete

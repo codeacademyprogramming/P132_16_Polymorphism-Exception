@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\bin\Debug\netcoreapp3.1\StoreAppLibrary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\bin\Debug\netcoreapp3.1\StoreAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\bin\Debug\netcoreapp3.1\StoreAppLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\16. 29-08-2022\StoreProject\StoreAppLibrary\obj\Debug\netcoreapp3.1\StoreAppLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExceptionHandling/1.0.0": {
+        "dependencies": {
+          "StoreAppLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExceptionHandling.dll": {}
+        }
+      },
+      "StoreAppLibrary/1.0.0": {
+        "runtime": {
+          "StoreAppLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreAppLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9615377a-11c0-4286-a0f6-105267a0563d": {
+      "ProjectGuid": "9615377a-11c0-4286-a0f6-105267a0563d",
+      "DisplayName": "StoreAppLibrary",
+      "ColorIndex": 0
+    },
+    "92b9060c-5393-4dae-936b-737ea018df33": {
+      "ProjectGuid": "92b9060c-5393-4dae-936b-737ea018df33",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7ca0b2a9-50d2-48b7-ad61-ee8074492107": {
+      "ProjectGuid": "7ca0b2a9-50d2-48b7-ad61-ee8074492107",
+      "DisplayName": "Task1",
+      "ColorIndex": 2
+    },
+    "f0a5de73-bf43-48b8-a729-7fb6beba5367": {
+      "ProjectGuid": "f0a5de73-bf43-48b8-a729-7fb6beba5367",
+      "DisplayName": "ExceptionHandling",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
